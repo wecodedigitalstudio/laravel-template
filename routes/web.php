@@ -15,7 +15,6 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-// pagina devs
 Route::get('/devs', function () {
     return view('devs');
 });
