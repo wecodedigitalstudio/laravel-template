@@ -1,0 +1,11 @@
+version: '2'
+
+services:
+  webserver:
+    build: ./docker/webserver
+    image: laravel-template
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /Users/rob/Projects/laravel-template/www:/var/www/html
