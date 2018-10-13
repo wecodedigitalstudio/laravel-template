@@ -24,7 +24,7 @@ export default class DevelopersIndexPage extends Vue {
 
     // private devsService: DevsService;
 
-    public title: string = "devs works good";
+    public title: string = "devs works";
     // public columnOptions: any[] = [];
     // public devs: Developer[] = [];
 

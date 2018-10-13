@@ -24,7 +24,7 @@ var DevelopersIndexPage = /** @class */ (function (_super) {
     function DevelopersIndexPage() {
         // private devsService: DevsService;
         var _this = _super !== null && _super.apply(this, arguments) || this;
-        _this.title = "devs works good";
+        _this.title = "devs works";
         return _this;
         // public columnOptions: any[] = [];
         // public devs: Developer[] = [];
