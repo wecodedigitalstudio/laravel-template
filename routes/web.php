@@ -11,10 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
-Route::get('/devs', function () {
-    return view('devs');
-});
+Route::get('/', 'WelcomeController@index')->name('welcome.index');
+Route::get('/developers', 'DevelopersController@index')->name('developers.index');
