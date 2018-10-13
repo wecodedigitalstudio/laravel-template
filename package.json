@@ -23,7 +23,7 @@
         "vue-class-component": "^6.2.0",
         "vue-loader": "^14.2.2",
         "vue-property-decorator": "^6.1.0",
-        "webpack": "^4.11.0"
+        "webpack": "^4.19.1"
     },
     "devDependencies": {
         "babel-core": "^6.25.0",
@@ -37,7 +37,7 @@
         "vue-hot-reload-api": "^2.1.0",
         "vue-html-loader": "^1.2.4",
         "vue-template-compiler": "^2.5.16",
-        "webpack-cli": "^2.0.14"
+        "webpack-cli": "^3.1.1"
     },
     "author": "We-Code Digital Studio",
     "license": "ISC"

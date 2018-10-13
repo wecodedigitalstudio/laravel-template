@@ -10,6 +10,9 @@
         "strictPropertyInitialization": false,
         "target": "es5"
     },
+    "exclude": [
+        "vendor"
+    ],
     "compileOnSave": true,
     "typeRoots": [
         "node_modules/@types"

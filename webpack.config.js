@@ -3,7 +3,7 @@ var webpack = require('webpack')
 
 module.exports = {
     entry: {
-        home_page: './src/pages/home/home.page.js'
+        developers_page: './src/pages/developers/index.page.js'
     },
     output: {
         path: path.resolve(__dirname, './public/build/'),
